@@ -36,7 +36,8 @@ body {
 
 /* Put a border around your image */
 img {
-  border: 5px solid goldenrod;
+  margin: 5px;
+  border: 8px ridge goldenrod;
   width: 250px;
   height: 400px;
 }
