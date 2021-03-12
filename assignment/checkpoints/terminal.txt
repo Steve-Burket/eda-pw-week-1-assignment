@@ -15,7 +15,7 @@ touch
 # 7 - Run 'git --version' in your terminal. What is the output?
 git version 2.27.0
 # 8 - Why would you run the command 'git status'?
-To check the status of a file and whether or not it's been tracked by git.
+To check the status of a file to see whether or not it's been tracked by git and ready to be staged.
 # 9 - What does the command 'git add .' do?
 It adds everything to git from the folder that you want to be Staged for a Commit.
 # 10 - What is the command to push your committed changes to your repo on GitHub?
